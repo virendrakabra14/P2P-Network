@@ -1,0 +1,12 @@
+another.txt
+ddlolympics.sql
+foo.png
+o2
+random.py
+run.sh
+Connected to 2 with unique-ID 9002 on port 6050
+Found op.txt at 9002 with MD5 fe47e6231d61206a022068327c14d1f0 at depth 1
+Found ra.txt at 9002 with MD5 95222018ae6b99b4babe860725371c63 at depth 1
+Found rafinal at 9002 with MD5 68e92659622e17d91d7d82e7a8acc761 at depth 1
+Found temp.c at 9002 with MD5 aff73b0f254b804766ba9499ebc79f3e at depth 1
+Found temp2.cpp at 5133 with MD5 a324068229115b95a1ecd2d0f6937030 at depth 2

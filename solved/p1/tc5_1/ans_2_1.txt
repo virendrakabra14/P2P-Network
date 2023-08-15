@@ -1,0 +1,8 @@
+f1.txt
+file.cpp
+foo.png
+go.sh
+ra.txt
+rafinal
+temp.c
+Connected to 1 with unique-ID 4937 on port 5051

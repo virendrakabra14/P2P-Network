@@ -1,0 +1,10 @@
+foo.png
+go.sh
+lab4db.ddl
+op.txt
+q1.cpp
+ra.txt
+random.py
+Connected to 2 with unique-ID 3353 on port 6041
+Found another.txt at 0 with MD5 0 at depth 0
+Found opda.txt at 0 with MD5 0 at depth 0

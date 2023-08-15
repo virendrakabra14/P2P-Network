@@ -1,0 +1,7 @@
+f1.txt
+go.sh
+lab4db.ddl
+op.txt
+oppk.txt
+rafinal
+Connected to 2 with unique-ID 2267 on port 6040

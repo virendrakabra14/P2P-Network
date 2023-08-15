@@ -1,0 +1,16 @@
+go.sh
+lab4db.ddl
+oppk.txt
+q1.cpp
+queries
+rafinal
+random.py
+run.sh
+Connected to 1 with unique-ID 3344 on port 5041
+Connected to 3 with unique-ID 9505 on port 7041
+Connected to 4 with unique-ID 5345 on port 8041
+Found bar.pdf at 0 with MD5 0 at depth 0
+Found f1.txt at 9505 with MD5 874ca5eeef835e5742c3440e651e8a30 at depth 1
+Found o2 at 3344 with MD5 97a4ea1664cef662387b09fe8852001b at depth 1
+Found opda.txt at 9505 with MD5 0a075e3043faf3e44be2edd5ec5792d0 at depth 1
+Found ra.txt at 3344 with MD5 95222018ae6b99b4babe860725371c63 at depth 1

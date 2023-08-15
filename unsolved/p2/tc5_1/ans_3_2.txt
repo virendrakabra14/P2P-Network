@@ -1,0 +1,16 @@
+another.txt
+bar.pdf
+foo.png
+go.sh
+lab4db.ddl
+o2
+op.txt
+oppk.txt
+rafinal
+run.sh
+Connected to 1 with unique-ID 4937 on port 5051
+Found ddlolympics.sql at 0 with MD5 0 at depth 0
+Found f1.txt at 0 with MD5 0 at depth 0
+Found q1.cpp at 4937 with MD5 0 at depth 1
+Found queries at 0 with MD5 0 at depth 0
+Found temp2.cpp at 0 with MD5 0 at depth 0

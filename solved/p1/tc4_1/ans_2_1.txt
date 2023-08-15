@@ -1,0 +1,11 @@
+go.sh
+lab4db.ddl
+oppk.txt
+q1.cpp
+queries
+rafinal
+random.py
+run.sh
+Connected to 1 with unique-ID 3344 on port 5041
+Connected to 3 with unique-ID 9505 on port 7041
+Connected to 4 with unique-ID 5345 on port 8041

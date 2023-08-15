@@ -1,0 +1,10 @@
+f1.txt
+file.cpp
+foo.png
+go.sh
+ra.txt
+rafinal
+temp.c
+Connected to 1 with unique-ID 4937 on port 5051
+Found queries at 8362 with MD5 0c902f4a42de8386868257caf48241ec at depth 2
+Found temp2.cpp at 0 with MD5 0 at depth 0

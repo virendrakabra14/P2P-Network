@@ -1,0 +1,11 @@
+bar.pdf
+ddlolympics.sql
+lab4db.ddl
+o2
+q1.cpp
+rafinal
+random.py
+run.sh
+temp.c
+Connected to 2 with unique-ID 2267 on port 6040
+Found temp2.cpp at 2267 with MD5 0 at depth 1

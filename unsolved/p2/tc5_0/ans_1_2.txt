@@ -1,0 +1,10 @@
+bar.pdf
+file.cpp
+foo.png
+random.py
+temp2.cpp
+Connected to 2 with unique-ID 9002 on port 6050
+Connected to 5 with unique-ID 2564 on port 9050
+Found go.sh at 9002 with MD5 0 at depth 1
+Found op.txt at 2564 with MD5 0 at depth 1
+Found queries at 2564 with MD5 0 at depth 1

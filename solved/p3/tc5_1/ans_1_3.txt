@@ -1,0 +1,17 @@
+bar.pdf
+foo.png
+o2
+opda.txt
+oppk.txt
+q1.cpp
+ra.txt
+run.sh
+temp.c
+Connected to 2 with unique-ID 6539 on port 6051
+Connected to 3 with unique-ID 1220 on port 7051
+Connected to 4 with unique-ID 8362 on port 8051
+Found another.txt at 1220 with MD5 ce7c60aa6b8f8e05dc54fc26912b178c at depth 1
+Found ddlolympics.sql at 0 with MD5 0 at depth 0
+Found lab4db.ddl at 1220 with MD5 5ab92d1b2c5980e30a162e41aeb78b89 at depth 1
+Found queries at 8362 with MD5 0c902f4a42de8386868257caf48241ec at depth 1
+Found rafinal at 1220 with MD5 68e92659622e17d91d7d82e7a8acc761 at depth 1

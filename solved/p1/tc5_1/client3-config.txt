@@ -1,0 +1,9 @@
+3 7051 1220
+1
+1 5051 
+5
+ddlolympics.sql
+temp2.cpp
+q1.cpp
+queries
+f1.txt

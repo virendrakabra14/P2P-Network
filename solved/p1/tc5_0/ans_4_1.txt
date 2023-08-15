@@ -1,0 +1,7 @@
+another.txt
+ddlolympics.sql
+foo.png
+o2
+random.py
+run.sh
+Connected to 2 with unique-ID 9002 on port 6050

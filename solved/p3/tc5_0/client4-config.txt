@@ -1,0 +1,9 @@
+4 8050 3436
+1
+2 6050 
+5
+op.txt
+rafinal
+temp2.cpp
+temp.c
+ra.txt

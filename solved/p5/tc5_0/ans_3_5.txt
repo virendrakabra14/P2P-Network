@@ -1,0 +1,14 @@
+another.txt
+ddlolympics.sql
+file.cpp
+foo.png
+lab4db.ddl
+o2
+op.txt
+q1.cpp
+random.py
+temp.c
+temp2.cpp
+Connected to 2 with unique-ID 9002 on port 6050
+Connected to 5 with unique-ID 2564 on port 9050
+Found go.sh at 9002 with MD5 9fb8fe27ecb019dfda6926f6e7b0331b at depth 1

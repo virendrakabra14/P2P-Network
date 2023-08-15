@@ -1,0 +1,8 @@
+f1.txt
+go.sh
+lab4db.ddl
+op.txt
+oppk.txt
+rafinal
+Connected to 2 with unique-ID 2267 on port 6040
+Found bar.pdf at 2267 with MD5 fd6a970a6bd6a58598b55bba1c8974d4 at depth 1

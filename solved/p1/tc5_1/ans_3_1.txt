@@ -1,0 +1,11 @@
+another.txt
+bar.pdf
+foo.png
+go.sh
+lab4db.ddl
+o2
+op.txt
+oppk.txt
+rafinal
+run.sh
+Connected to 1 with unique-ID 4937 on port 5051

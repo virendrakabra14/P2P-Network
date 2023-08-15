@@ -1,0 +1,18 @@
+bar.pdf
+f1.txt
+go.sh
+lab4db.ddl
+op.txt
+oppk.txt
+q1.cpp
+ra.txt
+rafinal
+random.py
+run.sh
+temp.c
+Connected to 1 with unique-ID 9676 on port 5050
+Connected to 3 with unique-ID 5133 on port 7050
+Connected to 4 with unique-ID 3436 on port 8050
+Connected to 5 with unique-ID 2564 on port 9050
+Found ddlolympics.sql at 2564 with MD5 b068bb9e417e97c12a8dc49ec3aac08a at depth 1
+Found temp2.cpp at 5133 with MD5 a324068229115b95a1ecd2d0f6937030 at depth 1

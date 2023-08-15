@@ -1,0 +1,19 @@
+another.txt
+bar.pdf
+ddlolympics.sql
+f1.txt
+file.cpp
+foo.png
+op.txt
+oppk.txt
+ra.txt
+rafinal
+random.py
+run.sh
+temp.c
+temp2.cpp
+Connected to 1 with unique-ID 2394 on port 5040
+Connected to 4 with unique-ID 9399 on port 8040
+Found go.sh at 2394 with MD5 0 at depth 1
+Found opda.txt at 0 with MD5 0 at depth 0
+Found queries at 0 with MD5 0 at depth 0

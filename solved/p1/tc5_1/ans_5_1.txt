@@ -1,0 +1,12 @@
+ddlolympics.sql
+f1.txt
+file.cpp
+lab4db.ddl
+opda.txt
+oppk.txt
+q1.cpp
+queries
+ra.txt
+random.py
+temp.c
+temp2.cpp

@@ -1,0 +1,10 @@
+foo.png
+oppk.txt
+q1.cpp
+rafinal
+temp2.cpp
+Found go.sh at 0 with MD5 0 at depth 0
+Found lab4db.ddl at 0 with MD5 0 at depth 0
+Found op.txt at 0 with MD5 0 at depth 0
+Found run.sh at 0 with MD5 0 at depth 0
+Found temp.c at 0 with MD5 0 at depth 0

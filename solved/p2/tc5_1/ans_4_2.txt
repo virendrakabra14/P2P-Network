@@ -1,0 +1,10 @@
+another.txt
+go.sh
+o2
+op.txt
+queries
+ra.txt
+run.sh
+temp.c
+Connected to 1 with unique-ID 4937 on port 5051
+Found temp2.cpp at 0 with MD5 0 at depth 0

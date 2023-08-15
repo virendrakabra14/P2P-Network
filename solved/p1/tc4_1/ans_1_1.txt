@@ -1,0 +1,14 @@
+another.txt
+ddlolympics.sql
+file.cpp
+foo.png
+go.sh
+lab4db.ddl
+o2
+op.txt
+q1.cpp
+queries
+ra.txt
+temp.c
+temp2.cpp
+Connected to 2 with unique-ID 3353 on port 6041
